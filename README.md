@@ -1,6 +1,6 @@
 # photo_gallery
 
-A new Flutter application.
+A simple Flutter application showing how to load basic UI components and fetch data from APIs. 
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+
+![Screenshot 1](https://github.com/ailoitte/Flutter-Photo-Gallery/blob/master/screenshot/Screenshot-1.png)
+
+![Screenshot 2](https://github.com/ailoitte/Flutter-Photo-Gallery/blob/master/screenshot/Screenshot-2.png)
