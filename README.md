@@ -1,13 +1,13 @@
 # photo_gallery
 
-A simple Flutter application showing how to load basic UI components and fetch data from APIs. 
+A simple Flutter application showing how to load basic UI components and fetch data from APIs.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-
+- [Awesome & free YouTube course] (https://www.youtube.com/playlist?list=PLmnT6naTGy2Qs1GRoDrQYhij0i69HDFuc)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
